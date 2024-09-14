@@ -14,7 +14,7 @@ Please make sure you have the following dependencies installed:
 To get started, clone the repository and navigate to the project directory:
 
 ```bash
-git clone
+git clone https://github.com/IonicArgon/GeneticAlgorithm
 cd GeneticAlgorithm
 ```
 
